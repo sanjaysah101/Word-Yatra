@@ -4,7 +4,7 @@ Welcome to the planning repository for the Wordscapes Game. This repository cont
 
 ## Project Overview
 
-The Wordscapes Game is a mobile word puzzle game developed using React Native. Players will solve puzzles by finding words from a set of scrambled letters. The game will feature multiple levels with increasing difficulty and a variety of themes.
+The `Wordscapes` is a mobile word puzzle game developed using React Native. Players will solve puzzles by finding words from a set of scrambled letters. The game will feature multiple levels with increasing difficulty and a variety of themes.
 
 ## Directory Structure
 
